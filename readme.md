@@ -31,7 +31,7 @@
 | 29  | Check if a character is an alphabet or not.                                    | <ul><li>- [x] </li></ui> |
 | 30  | Check if a character is a digit or not.                                        | <ul><li>- [x] </li></ui> |
 | 31  | Find the day of the week based on a number (1-7).                              | <ul><li>- [x] </li></ui> |
-| 32  | Calculate the electricity bill based on slab rates.                            | <ul><li>- [] </li></ui> |
+| 32  | Calculate the electricity bill based on slab rates.                            | <ul><li>- [ ] </li></ui> |
 | 33  | Check if a number is a palindrome.                                             | <ul><li>- [x] </li></ui> |
 | 34  | Check if a number is a perfect number (sum of divisors equals the number).     | <ul><li>- [x] </li></ui> |
 | 35  | Check if a triangle is valid (given three angles).                             | <ul><li>- [x] </li></ui> |
