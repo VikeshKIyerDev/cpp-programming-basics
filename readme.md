@@ -41,12 +41,12 @@
 | 39  | Print numbers from 1 to n.                                                     | <ul><li>- [x] </li></ui> |
 | 40  | Print numbers from n to 1.                                                     | <ul><li>- [x] </li></ui> |
 | 41  | Calculate the factorial of a number.                                           | <ul><li>- [x] </li></ui> |
-| 42  | Check if a number is prime.                                                    | <ul><li>- [ ] </li></ui> |
-| 43  | Print all prime numbers up to n.                                               | <ul><li>- [ ] </li></ui> |
-| 44  | Find the Fibonacci series up to n terms.                                       | <ul><li>- [ ] </li></ui> |
-| 45  | Find the sum of digits of a number.                                            | <ul><li>- [ ] </li></ui> |
-| 46  | Reverse a number.                                                              | <ul><li>- [ ] </li></ui> |
-| 47  | Check if a number is Armstrong (sum of cubes of its digits equals the number). | <ul><li>- [ ] </li></ui> |
+| 42  | Check if a number is prime.                                                    | <ul><li>- [x] </li></ui> |
+| 43  | Print all prime numbers up to n.                                               | <ul><li>- [x] </li></ui> |
+| 44  | Find the Fibonacci series up to n terms.                                       | <ul><li>- [x] </li></ui> |
+| 45  | Find the sum of digits of a number.                                            | <ul><li>- [x] </li></ui> |
+| 46  | Reverse a number.                                                              | <ul><li>- [x] </li></ui> |
+| 47  | Check if a number is Armstrong (sum of cubes of its digits equals the number). | <ul><li>- [x] </li></ui> |
 | 48  | Find the greatest common divisor (GCD) of two numbers.                         | <ul><li>- [ ] </li></ui> |
 | 49  | Find the least common multiple (LCM) of two numbers.                           | <ul><li>- [ ] </li></ui> |
 | 50  | Calculate the power of a number using recursion.                               | <ul><li>- [ ] </li></ui> |
