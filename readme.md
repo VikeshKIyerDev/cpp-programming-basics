@@ -49,12 +49,12 @@
 | 47  | Check if a number is Armstrong (sum of cubes of its digits equals the number). | <ul><li>- [x] </li></ui> |
 | 48  | Find the greatest common divisor (GCD) of two numbers.                         | <ul><li>- [ ] </li></ui> |
 | 49  | Find the least common multiple (LCM) of two numbers.                           | <ul><li>- [ ] </li></ui> |
-| 50  | Calculate the power of a number using recursion.                               | <ul><li>- [ ] </li></ui> |
+| 50  | Calculate the power of a number using recursion.                               | <ul><li>- [x] </li></ui> |
 | 51  | Print a pattern of stars (e.g., right-angled triangle, pyramid).               | <ul><li>- [ ] </li></ui> |
-| 52  | Print the reverse of a string.                                                 | <ul><li>- [ ] </li></ui> |
+| 52  | Print the reverse of a string.                                                 | <ul><li>- [x] </li></ui> |
 | 53  | Print the characters of a string in reverse order.                             | <ul><li>- [ ] </li></ui> |
-| 54  | Calculate the sum of all even numbers between 1 and n.                         | <ul><li>- [ ] </li></ui> |
-| 55  | Calculate the sum of all odd numbers between 1 and n.                          | <ul><li>- [ ] </li></ui> |
+| 54  | Calculate the sum of all even numbers between 1 and n.                         | <ul><li>- [x] </li></ui> |
+| 55  | Calculate the sum of all odd numbers between 1 and n.                          | <ul><li>- [x] </li></ui> |
 | 56  | Character Count: Count the number of occurrences of a character in a string.   | <ul><li>- [ ] </li></ui> |
 | 57  | Convert to Uppercase/Lowercase: Convert a string to uppercase or lowercase.    | <ul><li>- [ ] </li></ui> |
 | 58  | Area of a Rectangle: Calculate the area of a rectangle.                        | <ul><li>- [ ] </li></ui> |
