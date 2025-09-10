@@ -50,7 +50,7 @@
 | 48  | Find the greatest common divisor (GCD) of two numbers.                         | <ul><li>- [ ] </li></ui> |
 | 49  | Find the least common multiple (LCM) of two numbers.                           | <ul><li>- [ ] </li></ui> |
 | 50  | Calculate the power of a number using recursion.                               | <ul><li>- [x] </li></ui> |
-| 51  | Print a pattern of stars (e.g., right-angled triangle, pyramid).               | <ul><li>- [ ] </li></ui> |
+| 51  | Print a pattern of stars (e.g., right-angled triangle, pyramid).               | <ul><li>- [x] </li></ui> |
 | 52  | Print the reverse of a string.                                                 | <ul><li>- [x] </li></ui> |
 | 53  | Print the characters of a string in reverse order.                             | <ul><li>- [ ] </li></ui> |
 | 54  | Calculate the sum of all even numbers between 1 and n.                         | <ul><li>- [x] </li></ui> |
