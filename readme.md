@@ -65,9 +65,9 @@
 | 63  | Sum of Digits: Calculate the sum of the digits of a number.                                                                  | <ul><li>- [ ] </li></ui> |
 | 64  | [Multiplication Table: Print the multiplication table for a given number.](38.%20Multiplication%20tables.cpp)                | <ul><li>- [x] </li></ui> |
 | 65  | Check for Alphabet: Check if a character is an alphabet.                                                                     | <ul><li>- [ ] </li></ui> |
-| 66  | [Armstrong Number: Check if a number is an Armstrong number.](47.%20Armstrong%20Number.cpp)                                                                  | <ul><li>- [ ] </li></ui> |
-| 67  | [Perfect Number: Check if a number is a perfect number.](34.%20Perfect%20number.cpp)                                                                       | <ul><li>- [ ] </li></ui> |
-| 68  | [Leap Year: Check if a year is a leap year.](26.%20Leap%20Year.cpp)                                                                                   | <ul><li>- [ ] </li></ui> |
+| 66  | [Armstrong Number: Check if a number is an Armstrong number.](47.%20Armstrong%20Number.cpp)                                                                  | <ul><li>- [x] </li></ui> |
+| 67  | [Perfect Number: Check if a number is a perfect number.](34.%20Perfect%20number.cpp)                                                                       | <ul><li>- [x] </li></ui> |
+| 68  | [Leap Year: Check if a year is a leap year.](26.%20Leap%20Year.cpp)                                                                                   | <ul><li>- [x] </li></ui> |
 | 69  | Find Maximum in Array: Find the largest element in an array.                                                                 | <ul><li>- [ ] </li></ui> |
 | 70  | Find Minimum in Array: Find the smallest element in an array.                                                                | <ul><li>- [ ] </li></ui> |
 | 71  | Sum of Array Elements: Calculate the sum of all elements in an array.                                                        | <ul><li>- [ ] </li></ui> |
