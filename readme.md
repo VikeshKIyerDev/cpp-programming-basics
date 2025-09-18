@@ -2,7 +2,7 @@
 |-----|------------------------------------------------------------------------------------------------------------------------------|--------------------------|
 | 1   | [Print "Namah Shivaya ! "](01.%20Namah%20Shivaya.cpp)                                                                        | <ul><li>- [x] </li></ui> |
 | 2   | [Take two numbers as input and print their sum.](02.%20Sum%20of%202%20Numbers.cpp)                                           | <ul><li>- [x] </li></ui> |
-| 3   | [Take a name as input and print "Namah Shivaya , \[name\]!".](03.%20Greet%20the%20user.cpp)                                   | <ul><li>- [x] </li></ui> |
+| 3   | [Take a name as input and print "Namah Shivaya , \[name\]!".](03.%20Greet%20the%20user.cpp)                                  | <ul><li>- [x] </li></ui> |
 | 4   | [Calculate the area of a rectangle (given length and width).](04.%20Area%20of%20a%20rectangle.cpp)                           | <ul><li>- [x] </li></ui> |
 | 5   | [Convert Celsius to Fahrenheit.](05.%20Celsius%20To%20Farenheit.cpp)                                                         | <ul><li>- [x] </li></ui> |
 | 6   | [Calculate the simple interest.](06.%20Simple%20Interest.cpp)                                                                | <ul><li>- [x] </li></ui> |
@@ -47,12 +47,12 @@
 | 45  | [Find the sum of digits of a number.](45.%20Sum%20of%20digits.cpp)                                                           | <ul><li>- [x] </li></ui> |
 | 46  | [Reverse a number.](46.%20Reverse.cpp)                                                                                       | <ul><li>- [x] </li></ui> |
 | 47  | [Check if a number is Armstrong (sum of cubes of its digits equals the number).](47.%20Armstrong%20Number.cpp)               | <ul><li>- [x] </li></ui> |
-| 48  | Find the greatest common divisor (GCD) of two numbers.                                                                       | <ul><li>- [ ] </li></ui> |
-| 49  | Find the least common multiple (LCM) of two numbers.                                                                         | <ul><li>- [ ] </li></ui> |
+| 48  | [Find the greatest common divisor (GCD) of two numbers.](48.%20HCF.cpp)                                                      | <ul><li>- [x] </li></ui> |
+| 49  | [Find the least common multiple (LCM) of two numbers.](49.%20LCM.cpp)                                                        | <ul><li>- [x] </li></ui> |
 | 50  | [Calculate the power of a number using recursion.](50.%20Power%20Recursion.cpp)                                              | <ul><li>- [x] </li></ui> |
 | 51  | [Print a pattern of stars (e.g., right-angled triangle, pyramid).](51.%20Pattern.cpp)                                        | <ul><li>- [x] </li></ui> |
 | 52  | [Print the reverse of a string.](52.%20Reverse%20String.cpp)                                                                 | <ul><li>- [x] </li></ui> |
-| 53  | Print the characters of a string in reverse order.                                                                           | <ul><li>- [ ] </li></ui> |
+| 53  | [Print the characters of a string in reverse order.](52.%20Reverse%20String.cpp)                                             | <ul><li>- [x] </li></ui> |
 | 54  | [Calculate the sum of all even numbers between 1 and n.](54.%20Sum%20of%20even%20numbers.cpp)                                | <ul><li>- [x] </li></ui> |
 | 55  | [Calculate the sum of all odd numbers between 1 and n.](55.%20Sum%20of%20odd%20numbers.cpp)                                  | <ul><li>- [x] </li></ui> |
 | 56  | [Character Count: Count the number of occurrences of a character in a string.](56.%20Character%20Count.cpp)                  | <ul><li>- [x] </li></ui> |
@@ -62,14 +62,14 @@
 | 60  | [Temperature Conversion: Convert Celsius to Fahrenheit and vice versa.](05.%20Celsius%20To%20Farenheit.cpp)                  | <ul><li>- [x] </li></ui> |
 | 61  | [Check for Digit: Check if a string contains a digit.](61.%20Find%20digit.cpp)                                               | <ul><li>- [x] </li></ui> |
 | 62  | [Count Vowels: Count the number of vowels in a string.](62.%20Count%20Vowels.cpp)                                            | <ul><li>- [x] </li></ui> |
-| 63  | Sum of Digits: Calculate the sum of the digits of a number.                                                                  | <ul><li>- [ ] </li></ui> |
+| 63  | [Sum of Digits: Calculate the sum of the digits of a number.](45.%20Sum%20of%20digits.cpp)                                   | <ul><li>- [x] </li></ui> |
 | 64  | [Multiplication Table: Print the multiplication table for a given number.](38.%20Multiplication%20tables.cpp)                | <ul><li>- [x] </li></ui> |
-| 65  | Check for Alphabet: Check if a character is an alphabet.                                                                     | <ul><li>- [ ] </li></ui> |
-| 66  | [Armstrong Number: Check if a number is an Armstrong number.](47.%20Armstrong%20Number.cpp)                                                                  | <ul><li>- [x] </li></ui> |
-| 67  | [Perfect Number: Check if a number is a perfect number.](34.%20Perfect%20number.cpp)                                                                       | <ul><li>- [x] </li></ui> |
-| 68  | [Leap Year: Check if a year is a leap year.](26.%20Leap%20Year.cpp)                                                                                   | <ul><li>- [x] </li></ui> |
-| 69  | Find Maximum in Array: Find the largest element in an array.                                                                 | <ul><li>- [ ] </li></ui> |
-| 70  | Find Minimum in Array: Find the smallest element in an array.                                                                | <ul><li>- [ ] </li></ui> |
-| 71  | Sum of Array Elements: Calculate the sum of all elements in an array.                                                        | <ul><li>- [ ] </li></ui> |
-| 72  | Average of Array Elements: Calculate the average of all elements in an array.                                                | <ul><li>- [ ] </li></ui> |
-| 73  | Reverse an Array: Reverse the order of elements in an array.                                                                 | <ul><li>- [ ] </li></ui> |
+| 65  | [Check for Alphabet: Check if a character is an alphabet.](65.%20Alphabet%20Check.cpp)                                       | <ul><li>- [x] </li></ui> |
+| 66  | [Armstrong Number: Check if a number is an Armstrong number.](47.%20Armstrong%20Number.cpp)                                  | <ul><li>- [x] </li></ui> |
+| 67  | [Perfect Number: Check if a number is a perfect number.](34.%20Perfect%20number.cpp)                                         | <ul><li>- [x] </li></ui> |
+| 68  | [Leap Year: Check if a year is a leap year.](26.%20Leap%20Year.cpp)                                                          | <ul><li>- [x] </li></ui> |
+| 69  | [Find Maximum in Array: Find the largest element in an array.](69.%20Max%20Array.cpp)                                        | <ul><li>- [x] </li></ui> |
+| 70  | [Find Minimum in Array: Find the smallest element in an array.](70.%20Min%20Array.cpp)                                       | <ul><li>- [x] </li></ui> |
+| 71  | [Sum of Array Elements: Calculate the sum of all elements in an array.](71.%20Sum%20Of%20Array.cpp)                          | <ul><li>- [x] </li></ui> |
+| 72  | [Average of Array Elements: Calculate the average of all elements in an array.](72.%20Average%20of%20Array.cpp)              | <ul><li>- [x] </li></ui> |
+| 73  | [Reverse an Array: Reverse the order of elements in an array.](73.%20Reverse%20Of%20Array.cpp)                               | <ul><li>- [x] </li></ui> |
